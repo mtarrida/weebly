@@ -2,16 +2,6 @@ import {collaboradors} from '../data/collaboradors.js';
 import { projectsJson  } from "../data/projects.js";
 import { tiposDeProjecte  } from "../data/tiposProjecte.js";
 
-function contains(selector, text) {
-    var elements = document.querySelectorAll(selector);
-    // font https://newbedev.com/javascript-queryselector-find-div-by-innertext
-    // resuta que son la cadena de divs, a mi minteressa l'ultim
-    let allDivs = Array.prototype.filter.call(elements, function (element) {
-        return RegExp(text).test(element.textContent);
-    });
-    return allDivs[allDivs.length - 1];
-}
-
 function changeThings(htmlObjText) {
 
     let objJson = projectsJson.find(j => j.name == htmlObjText);

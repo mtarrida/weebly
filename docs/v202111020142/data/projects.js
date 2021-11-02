@@ -47,7 +47,7 @@
     },
     {
         "name": "feina6",
-        "display": true,
+        "display": false,
         "title": "new work",
         "text": "text",
         "img_1_src": "/files/theme/projectes_img/erf_classe.png",
