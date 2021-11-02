@@ -23,7 +23,12 @@
         "name": "PVI",
         "title": "Estudio PVI Ingenieria S.L.",
         "logo": "/files/theme/projectes_img/pvi_logo.png",
-    }
+    },
+    {
+        "name": "newPartner",
+        "title": "newPartner",
+        "logo": "/files/theme/projectes_img/carlesGuillen_cara.png",
+    },
 
 
 ]

@@ -44,5 +44,14 @@
         "img_1_src": "/files/theme/projectes_img/erf_classe.png",
         "tipo": ["edu", "formacioDB"],
         "collaboracio": ["ERF"]
+    },
+    {
+        "name": "feina6",
+        "display": true,
+        "title": "new work",
+        "text": "text",
+        "tipo": ["consulting", "consulting"],
+        "collaboracio": ["newPartner"]
     }
+
 ]
