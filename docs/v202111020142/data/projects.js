@@ -50,6 +50,7 @@
         "display": true,
         "title": "new work",
         "text": "text",
+        "img_1_src": "/files/theme/projectes_img/erf_classe.png",
         "tipo": ["consulting", "consulting"],
         "collaboracio": ["newPartner"]
     }
