@@ -2,7 +2,7 @@
     {
         "name": "feina1",
         "display": true,
-        "title": "LEED centre comercial",
+        "title": "AAA LEED centre comercial",
         "text": "Projecte realitzant-se.",
         "img_1_src": "/files/theme/projectes_img/leedLogo.png",
         "tipo": ["LEED", "eplus"],
